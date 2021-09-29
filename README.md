@@ -16,4 +16,15 @@ gerador_de_transacoes -> este script tem como função gerar transações entre 
 
 # PowerBI
 Após a geração da base dados de acordo com o descrito acima, utilizei o PowerBI para importar, tratar e analisar todos os dados, gerando assim dashboards intuitívas para fácil análise do sistema como um todo.
-![Relações](https://github.com/martlaurano/sistema_blub/blob/eaaca2c5fa332e3a0b4ed19a61e3fe686881b753/Blub%20Dashboard%20%231.JPG)
+
+
+
+![Relações](https://github.com/martlaurano/sistema_blub/blob/0b613eeea2e265a432a84f62a111e48569821ec5/Rela%C3%A7%C3%B5es.jpg)
+
+
+
+![Dashboard #1](https://github.com/martlaurano/sistema_blub/blob/eaaca2c5fa332e3a0b4ed19a61e3fe686881b753/Blub%20Dashboard%20%231.JPG)
+
+
+
+![Dashboard #2](https://github.com/martlaurano/sistema_blub/blob/0b613eeea2e265a432a84f62a111e48569821ec5/Blub%20Dashboard%20%232.JPG)
