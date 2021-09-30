@@ -72,7 +72,7 @@ def gera_senha():
 
 def gera_data_nascimento():
 
-    data = datetime.date(random.randint(1960, 1998), random.randint(1, 12), random.randint(1, 12))
+    data = datetime.date(random.randint(1960, 1998), random.randint(1, 12), random.randint(1, 29))
     return data
 
 
