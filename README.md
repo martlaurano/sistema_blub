@@ -27,4 +27,4 @@ Após a geração da base dados de acordo com o descrito acima, utilizei o Power
 
 
 
-![Dashboard #2](https://github.com/martlaurano/sistema_blub/blob/0b613eeea2e265a432a84f62a111e48569821ec5/Blub%20Dashboard%20%232.JPG)
+![Dashboard #2](https://github.com/martlaurano/sistema_blub/blob/139981ccd4c8766db9b256ceb8dd29a7d7431abb/Blub%20Info%20Transa%C3%A7%C3%B5es.JPG)
