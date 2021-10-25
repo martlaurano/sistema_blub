@@ -23,7 +23,7 @@ Após a geração da base dados de acordo com o descrito acima, utilizei o Power
 
 
 
-![Dashboard #1](Blub Info Cadastral.JPG)
+![Dashboard #1](https://github.com/martlaurano/sistema_blub/blob/c74e21297721146e7fe35749334047a6eaef025b/Blub%20Info%20Cadastral.JPG)
 
 
 
